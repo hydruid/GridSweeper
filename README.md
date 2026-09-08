@@ -1,5 +1,17 @@
 # GridSweeper
 A DIY Vacuum project because I'm tired of sweeping and popular robot vacuums are expensive. 
 
+## Parts List
+- Adafruit TB6612 1.2A DC/Stepper Motor Driver Breakout Board (TB6612FNG)
 
-*Not Allowed for Commercial Use*
+## Planned Features
+- Autonomous navigation using lidar
+- Smart path planning with SLAM
+- Real-time mapping of rooms
+- App control via Wi-Fi
+- Automatic docking and charging
+- Obstacle avoidance
+- Scheduled cleaning
+
+## Notes
+- Not allowed for commercial use
