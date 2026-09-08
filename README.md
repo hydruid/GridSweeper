@@ -10,7 +10,7 @@ A DIY Vacuum project because I'm tired of sweeping and popular robot vacuums are
   - Spins 2 DC Motors
   - Good for motor voltages from 4.5V up to 13.5V
   - TB6612 soldered onto a breakout board
-- [Miniature LER DC Gearbox Motor TT 3-6V 100rpm](https://www.robotshop.com/products/miniature-ler-dc-gearbox-motor-tt-3-6v-100rpm?utm_source=chatgpt.com)
+- [Miniature LER DC Gearbox Motor TT 3-6V 100rpm](https://www.robotshop.com/products/miniature-ler-dc-gearbox-motor-tt-3-6v-100rpm?utm_source=chatgpt.com){:target="_blank"}
 
 ## Planned Features
 - Autonomous navigation using lidar
